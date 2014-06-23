@@ -1,0 +1,1 @@
+This is a very simple and stripped down bootstrap template to start prototyping fast.
