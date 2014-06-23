@@ -1,0 +1,179 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans|Roboto);
+
+/*JP Custom*/
+
+
+
+input {
+	max-width: 250px;
+}
+textarea {
+	max-width: 300px;
+}
+
+
+
+
+
+
+
+
+
+ /*Typography */
+
+body {
+	font-family: 'Open Sans';
+	line-height: 150%;
+	font-color: #555;
+}
+
+h1 {
+	font-family: 'Roboto';
+	font-weight: 500;
+}
+
+h2 {
+	font-family: 'Roboto';
+	font-weight: 500;
+	padding-top: 75px;
+}
+
+h3 {
+	font-family: 'Roboto';
+	font-weight: 500;
+	margin-top: 35px;
+}
+
+h4 {
+	font-family: 'Roboto';
+	font-weight: 700;
+}
+
+h5 {
+	font-family: 'Roboto';
+	font-weight: 700;
+}
+
+h6 {
+	font-family: 'Roboto';
+	font-weight: 500;
+}
+
+pre code {
+	color: #c7254e;
+}
+pre {
+	margin-top: 14px;
+}
+.lead {
+	font-weight: 300;
+	line-height: 125%;
+}
+
+/* Buttons */
+.btn-default {
+	border-radius: 2px;
+	background-color: #eee;
+	border-color: solid 1px #ccc;
+	height: 44px;
+	color: #555;
+	font-size: 15px;
+	font-family: 'Roboto';
+	font-weight: bold;
+}
+
+.btn-default:hover {
+	border-radius: 2px;
+	background-color: #e6e6e6;
+	border-color: solid 1px #ccc;
+	height: 44px;
+	color: #777;
+	font-size: 15px;
+	font-family: 'Roboto';
+	font-weight: bold;
+}
+
+
+.btn-primary {
+	border-radius: 2px;
+	background-color: #428491;
+	border-color: solid 1px #0C6666;
+	height: 44px;
+	color: #fff;
+	font-size: 15px;
+	font-family: 'Roboto';
+	font-weight: bold;
+}
+
+.btn-primary:hover {
+	border-radius: 2px;
+	background-color: #568E9E;
+	border-color: solid 1px #0C6666;
+	height: 44px;
+	color: #E6EEF1;
+	font-size: 15px;
+	font-family: 'Roboto';
+	font-weight: bold;
+}
+
+
+.btn-success {
+	border-radius: 2px;
+	background-color: #428491;
+	border-color: solid 1px #D32F01;
+	height: 44px;
+	color: #fff;
+	font-size: 15px;
+	font-family: 'Roboto';
+	font-weight: bold;
+}
+
+.btn-success:hover {
+	border-radius: 2px;
+	background-color: #EB804A;
+	border-color: solid 1px #D32F01;
+	height: 44px;
+	color: #FAECE3;
+	font-size: 15px;
+	font-family: 'Roboto';
+	font-weight: bold;
+}
+
+
+
+.btn-info {
+	border-radius: 2px;
+	background-color: #aaa;
+	border-color: solid 1px #888;
+	height: 44px;
+	color: #fff;
+	font-size: 15px;
+	font-family: 'Roboto';
+	font-weight: bold;
+}
+
+.btn-info:hover {
+	border-radius: 2px;
+	background-color: #bbb;
+	border-color: solid 1px #888;
+	height: 44px;
+	color: #eee;
+	font-size: 15px;
+	font-family: 'Roboto';
+	font-weight: bold;
+}
+
+
+/* Forms */
+.form-control {
+	border-radius: 0px;
+}
+
+label {
+	font-weight: bold;
+	font-size: 15px;
+	font-color: #333;
+}
+
+
+
