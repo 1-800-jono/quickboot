@@ -2,7 +2,22 @@
 
 /*JP Custom*/
 
+.form-group, h4 { /*Top Ssacing between elements*/
+	margin-top: 50px;
+}
 
+button.copyclip {
+	background-color: #5cb85c;
+	color: #fff;
+}
+button.copyclip:hover {
+	color: #fff;
+	background-color: #47a447 !important;
+	border-color: #47a447;
+}
+button.copyclip:focus {
+	color: #fff;
+}
 
 input {
 	max-width: 250px;
@@ -11,6 +26,9 @@ textarea {
 	max-width: 300px;
 }
 
+.date {
+	max-width: 250px;
+}
 
 
 
